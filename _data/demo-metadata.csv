@@ -1,13 +1,14 @@
-3993,9.78605E+12,2013 Statistical Yearbook of Vietnam = Nien Giam Thong Ke,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=22,,2013
-3994,9.78972E+12,The Reality of Aid 2014 : An independent Review of Poverty Reduction and Development Assistance,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=23,"Tomlinson, Brian.",2014
-3995,9789283324669(paperback),2015 APO Productivity Databook,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=24,,2015
-3997,,2015 Population Census of Japan: Results of Tabulation on Internal Migration,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=25,,2015
-3998,,The Philippine Nutirion Facts and Figures : Health-related millenium development goals (MDGs) Survey,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=26,,2016
-3999,9789283324713(Paperback),2016 APO Productivity Databook,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=27,,2016
-4000,,A Primer on Development in Tariff and Trade Policy,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=28,,2018
-4001,9715640516,Analysis of the President's Budget for 2002 : Accounting for New Modes of Financing the Fiscal Deficit,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=29,"Manasan, Rosario G.",2002
-4002,9.78972E+12,Birth of a Think Tank : The Founding of PIDS,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=30,"Sicat, Gerardo P.",2017
-4003,9.78972E+12,Building Back Better : A Democratic Accountability Assessment of service Delivery After Typhoon Haiyan,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=31,"Edited by: Co, Edna Estifania A.",2016
-4004,9.78972E+12,Global Wealth in the Providence of Restoration,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=32,"Labasan, Edwin Santos",2017
-4006,,I'd Like You to Know,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=33,,2015
-4007,,Let's Talk Chabacano : A Conversation Guide to Real-Life Situations,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=34,"Escalante, Enrique R.",2012
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+3993,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=22,,,2013 Statistical Yearbook of Vietnam = Nien Giam Thong Ke,,2013,,,,,,,,,,,,
+3994,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=23,,,The Reality of Aid 2014 : An independent Review of Poverty Reduction and Development Assistance,"Tomlinson, Brian.",2014,,,,,,,,,,,,
+3995,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=24,,,2015 APO Productivity Databook,,2015,,,,,,,,,,,,
+3997,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=25,,,2015 Population Census of Japan: Results of Tabulation on Internal Migration,,2015,,,,,,,,,,,,
+3998,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=26,,,The Philippine Nutirion Facts and Figures : Health-related millenium development goals (MDGs) Survey,,2016,,,,,,,,,,,,
+3999,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=27,,,2016 APO Productivity Databook,,2016,,,,,,,,,,,,
+4000,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=28,,,A Primer on Development in Tariff and Trade Policy,,2018,,,,,,,,,,,,
+4001,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=29,,,Analysis of the President's Budget for 2002 : Accounting for New Modes of Financing the Fiscal Deficit,"Manasan, Rosario G.",2002,,,,,,,,,,,,
+4002,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=30,,,Birth of a Think Tank : The Founding of PIDS,"Sicat, Gerardo P.",2017,,,,,,,,,,,,
+4003,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=31,,,Building Back Better : A Democratic Accountability Assessment of service Delivery After Typhoon Haiyan,"Edited by: Co, Edna Estifania A.",2016,,,,,,,,,,,,
+4004,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=32,,,Global Wealth in the Providence of Restoration,"Labasan, Edwin Santos",2017,,,,,,,,,,,,
+4006,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=33,,,I'd Like You to Know,,2015,,,,,,,,,,,,
+4007,https://psa-library.onstrike.com.ph/cgi-bin/koha/opac-image.pl?imagenumber=34,,,Let's Talk Chabacano : A Conversation Guide to Real-Life Situations,"Escalante, Enrique R.",2012,,,,,,,,,,,,
